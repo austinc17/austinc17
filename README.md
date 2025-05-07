@@ -1,5 +1,5 @@
 
-# Hi, I'm Austin! 👋
+# Hi, I'm Austin! 👋🏾
 
 🎓 I'm a second-year Computer Science student and an aspiring full-stack developer.  
 💻 I build projects using:
