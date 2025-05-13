@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) : https://www.linkedin.com/in/austin-chiwambo-0a8388288/
 
 ### 🚧 Goals for 2025
-- Build and deploy my AI artwork generator
+- Build and deploy my AI artwork generator ✅
 - Contribute to an open-source project
 - Develop my knowledge of backend development
 - Develop more full-stack projects
