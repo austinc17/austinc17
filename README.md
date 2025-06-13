@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinc17&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) : https://www.linkedin.com/in/austin-chiwambo-0a8388288/
+Linkedin: https://www.linkedin.com/in/austin-chiwambo-0a8388288/
 
 portfolio: https://2025portfoliofront-end.vercel.app
 
