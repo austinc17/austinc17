@@ -30,11 +30,16 @@
 
 portfolio: https://2025portfoliofront-end.vercel.app
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=austinc17&theme=solarized-light&no-frame=false&no-bg=true&margin-w=4)
+
 ### 🚧 Goals for 2025
 - Build and deploy my AI artwork generator ✅
 - Contribute to an open-source project
 - Develop my knowledge of backend development
 - Develop more full-stack projects
+
+
 
 
 
