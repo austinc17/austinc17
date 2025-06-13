@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   
 
 </p>
@@ -38,10 +39,6 @@ portfolio: https://2025portfoliofront-end.vercel.app
 - Contribute to an open-source project
 - Develop my knowledge of backend development
 - Develop more full-stack projects
-
-
-
-
 
 
 
