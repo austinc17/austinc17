@@ -20,7 +20,7 @@
 
 🧠 Currently learning about GANs, AI models, and backend frameworks  
 📚 I love exploring the Bible and learning how new technologies are built  
-🌱 Currently working on an AI artwork generator
+🌱 Currently building my list of certifications
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinc17&show_icons=true&theme=radical)
 
